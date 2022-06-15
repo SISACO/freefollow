@@ -2,7 +2,7 @@
 
 * free instagram followers create fake instagram account with profile picture
 
-* install termux [termux](https://f-droid.org/repo/com.termux_1>
+* install termux [termux](https://f-droid.org/repo/com.termux_118.apk)
 
 * paste This command in termux>
 ```

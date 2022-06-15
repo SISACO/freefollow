@@ -7,7 +7,7 @@
 * paste This command in termux>
 ```
 
-pkg update && pkg upgrade && pkg install php && git clone https://github.com/SISACO/freefollow && cd followers-ig && php sisaco.php/>
+pkg update && pkg upgrade && pkg install php && git clone https://github.com/SISACO/freefollow && cd followers-ig && php sisaco.php
 
 ```
 
